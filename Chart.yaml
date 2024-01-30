@@ -1,0 +1,7 @@
+apiVersion: v2
+name: admiralty
+version: 0.0.0
+dependencies:
+- name: admiralty
+  version: 0.16.0
+  repository: oci://public.ecr.aws/admiralty

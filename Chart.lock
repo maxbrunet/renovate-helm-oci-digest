@@ -1,0 +1,6 @@
+dependencies:
+- name: admiralty
+  repository: oci://public.ecr.aws/admiralty
+  version: 0.16.0
+digest: sha256:8be0c51d0dfcffee086321b21db271d47eda4010936ea2534ec4bc4ccbb66047
+generated: "2024-01-29T19:22:38.3304-08:00"
